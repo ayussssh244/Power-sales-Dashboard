@@ -4,7 +4,9 @@ As part of the analytics team, I developed a fully automated, interactive Power 
 
 🌟Key Work Areas:
 ETL Automation: Streamlined the data pipeline with Power Query Editor to clean, transform, and structure data for accuracy and relevance.
+
 DAX Calculations: Built calculated measures for key metrics, including Average Order Value (AOV), Discount %, Customer Rating, and Average Delivery Time to track performance and customer satisfaction.
+
 Interactive Dashboard Design: Created user-friendly visuals (combo charts, trend lines, bar charts, and pie charts) to highlight:
  - Revenue and Orders Trends over time
  - City & Restaurant Performance metrics
