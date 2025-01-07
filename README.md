@@ -11,7 +11,8 @@ DAX Calculations: Built calculated measures for key metrics, including Average O
 Interactive Dashboard Design: Created user-friendly visuals (combo charts, trend lines, bar charts, and pie charts) to highlight:
  - Revenue and Orders Trends over time
  - City & Restaurant Performance metrics
- - Delivery Efficiency insights
+ - Delivery Efficiency insights.
+   
 Dynamic Slicers: Added slicers for city and restaurant names, allowing leadership to filter data in real-time for customized insights.
 
 📊Business Impact:
